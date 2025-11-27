@@ -1,0 +1,48 @@
+name: Get Telegram File & Upload to Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      tg_link:
+        description: 'Link tin nhắn Telegram (có chứa file)'
+        required: true
+      release_tag:
+        description: 'Tag name cho Release (ví dụ: v1.0)'
+        required: true
+
+jobs:
+  download-and-upload:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Cấp quyền ghi để tạo release
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Telethon
+        run: pip install telethon
+
+      - name: Download file from Telegram
+        id: download
+        env:
+          TG_API_ID: ${{ secrets.TG_API_ID }}
+          TG_API_HASH: ${{ secrets.TG_API_HASH }}
+          TG_SESSION_STRING: ${{ secrets.TG_SESSION_STRING }}
+        run: |
+          python download_tg.py "${{ inputs.tg_link }}"
+
+      - name: Upload to GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Tạo release mới (nếu chưa có) và upload file
+          gh release create "${{ inputs.release_tag }}" "${{ steps.download.outputs.file_path }}" \
+            --title "Release ${{ inputs.release_tag }}" \
+            --notes "File downloaded from Telegram: ${{ inputs.tg_link }}" \
+            --generate-notes
