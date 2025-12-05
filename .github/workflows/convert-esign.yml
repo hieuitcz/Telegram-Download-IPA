@@ -1,0 +1,42 @@
+name: Convert esign.json to AltStore repo
+
+on:
+  push:
+    paths:
+      - "esign.json"
+      - ".github/workflows/convert-esign.yml"
+  workflow_dispatch: {}
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies (if any)
+        run: |
+          npm init -y >/dev/null 2>&1 || true
+
+      - name: Run converter
+        run: |
+          node scripts/convert-esign-to-repo.mjs
+
+      - name: Commit changes
+        if: ${{ github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master' }}
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add esign_repo.json
+            git commit -m "chore: update esign_repo.json from esign.json"
+            git push
+          else
+            echo "No changes to commit"
+          fi
