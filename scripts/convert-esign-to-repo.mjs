@@ -1,6 +1,6 @@
 import fs from "fs";
 
-const esignPath = "esign.json";
+const esignPath = "https://raw.githubusercontent.com/hieuitcz/ipa/refs/heads/main/esign.json";
 const outPath = "esign_repo.json";
 
 const esign = JSON.parse(fs.readFileSync(esignPath, "utf8"));
