@@ -517,7 +517,7 @@
       "bundleIdentifier": "com.dlipa.client",
       "developerName": "hieudz",
       "subtitle": "Modified iOS application",
-      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phi��n bản cũ — không cần jailbreak.",
+      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không c���n jailbreak.",
       "iconURL": "https://raw.githubusercontent.com/hieuitcz/ipa/main/icons/DLiPA.png",
       "tintColor": "#FF6B35",
       "screenshots": [],
