@@ -1,0 +1,40 @@
+name: Build SideStore repo from esign.json
+
+on:
+  schedule:
+    - cron: "0 * * * *" # mỗi giờ sync 1 lần
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run converter
+        run: |
+          # Chạy script chuyển đổi (đảm bảo tên file script khớp với file bạn tạo)
+          node scripts/convert-esign-to-sidestore.mjs
+
+      - name: Commit sidestore.json
+        if: ${{ github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master' }}
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add sidestore.json
+            git commit -m "chore: update sidestore.json from remote esign.json"
+            git push
+          else
+            echo "No changes to commit"
+          fi
