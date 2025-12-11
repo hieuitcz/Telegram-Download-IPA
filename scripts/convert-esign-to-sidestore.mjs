@@ -37,7 +37,7 @@ const main = async () => {
   const sideStoreRepo = {
     name: "hieuitcz IPA Repo",
     identifier: "com.hieuitcz.ipa", // Identifier tự đặt
-    sourceURL: "https://raw.githubusercontent.com/hieuitcz/ipa/refs/heads/main/sidestore.json", // Link tới file này sau khi push
+    sourceURL: "https://raw.githubusercontent.com/hieuitcz/Telegram-Download-IPA/refs/heads/main/sidestore.json", // Link tới file này sau khi push
     apps: (esign.apps || []).map((app) => ({
       name: app.name,
       bundleIdentifier: app.bundleIdentifier,
