@@ -327,7 +327,7 @@
       "versionDate": "2025-11-14T23:49:30+00:00",
       "versionDescription": "- DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. \n - Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak.",
       "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/dlipa-1.0/dlipa-1.0.ipa",
-      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không c���n jailbreak.",
+      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak.",
       "iconURL": "https://raw.githubusercontent.com/hieuitcz/ipa/main/icons/DLiPA.png",
       "tintColor": "FF6B35",
       "screenshotURLs": [],
