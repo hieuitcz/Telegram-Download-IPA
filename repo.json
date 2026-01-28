@@ -436,7 +436,7 @@
           "date": "2025-11-17T00:15:05+00:00",
           "size": 30835110,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/filebrowser-professional-25.12/filebrowser-professional-25.12.ipa",
-          "localizedDescription": "- FileBrowser Professional là ứng dụng quản lý và truy cập tệp mạnh mẽ dành cho iPhone và iPad, được thiết kế cho người dùng chuyên nghiệp và môi trường doanh nghiệp. \n - Đây là giải pháp hàng đầu để kết nối, duyệt, chỉnh sửa và đồng bộ hóa dữ liệu từ hơn 20 loại máy chủ mạng, thiết bị lưu trữ và dịch vụ đám mây — tất cả trong một ứng dụng duy nhất."
+          "localizedDescription": "- FileBrowser Professional là ứng dụng quản lý và truy cập t���p mạnh mẽ dành cho iPhone và iPad, được thiết kế cho người dùng chuyên nghiệp và môi trường doanh nghiệp. \n - Đây là giải pháp hàng đầu để kết nối, duyệt, chỉnh sửa và đồng bộ hóa dữ liệu từ hơn 20 loại máy chủ mạng, thiết bị lưu trữ và dịch vụ đám mây — tất cả trong một ứng dụng duy nhất."
         }
       ]
     },
@@ -460,7 +460,7 @@
           "date": "2025-11-18T22:44:42+00:00",
           "size": 30835110,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/filebrowser-documents-manager-v25.12/filebrowser-documents-manager-v25.12.ipa",
-          "localizedDescription": "- FileBrowser: Documents Manager là ứng dụng quản lý tệp chuyên sâu dành cho iOS.  \n - Cho phép bạn kết nối trực tiếp với máy tính Windows/Mac/Linux, NAS, ổ mạng, và dịch vụ lưu trữ đám mây ngay trên iPhone hoặc iPad.   \n - Đây là giải pháp lý tưởng cho người dùng muốn duyệt, sao chép, chỉnh sửa và quản lý tệp ở nhiều nguồn khác nhau mà vẫn giữ được tốc độ cực nhanh và giao diện trực quan.  \n"
+          "localizedDescription": "- FileBrowser: Documents Manager là ứng dụng quản lý tệp chuyên sâu dành cho iOS.  \n - Cho phép bạn kết nối trực tiếp với máy tính Windows/Mac/Linux, NAS, ổ mạng, và dịch vụ lưu trữ đám mây ngay trên iPhone hoặc iPad.   \n - Đây là giải pháp lý tưởng cho người d��ng muốn duyệt, sao chép, chỉnh sửa và quản lý tệp ở nhiều nguồn khác nhau mà vẫn giữ được tốc độ cực nhanh và giao diện trực quan.  \n"
         }
       ]
     },
@@ -532,7 +532,7 @@
           "date": "2025-11-16T20:02:23+00:00",
           "size": 527726805,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/hitman-go-1.16/hitman-go-1.16.ipa",
-          "localizedDescription": "- Hitman GO là một trò chơi chiến lược theo lượt (turn-based strategy) đoạt giải thưởng, nổi bật với đồ họa mô hình diorama tuyệt đẹp. \n - Trò chơi biến các nhiệm vụ ám sát và xâm nhập điển hình của Agent 47 thành những câu đố chiến thuật thông minh, nơi bạn phải suy nghĩ cẩn thận từng bước di chuyển để tránh kẻ thù và hoàn thành mục ti��u. \n - Trong Hitman GO, mọi hành động đều được cân nhắc kỹ lưỡng. Bạn sẽ tận dụng đầy đủ các công cụ quen thuộc của Agent 47: trang phục ngụy trang, vật để gây xao nhãng, súng bắn tỉa và cả hai khẩu Silverballers huyền thoại."
+          "localizedDescription": "- Hitman GO là một trò chơi chiến lược theo lượt (turn-based strategy) đoạt giải thưởng, nổi bật với đồ họa mô hình diorama tuyệt đẹp. \n - Trò chơi biến các nhiệm vụ ám sát và xâm nhập điển hình của Agent 47 thành những câu đố chiến thuật thông minh, nơi bạn phải suy nghĩ cẩn thận từng bước di chuyển để tránh kẻ thù và hoàn thành mục tiêu. \n - Trong Hitman GO, mọi hành động đều được cân nhắc kỹ lưỡng. Bạn sẽ tận dụng đầy đủ các công cụ quen thuộc của Agent 47: trang phục ngụy trang, vật để gây xao nhãng, súng bắn tỉa và cả hai khẩu Silverballers huyền thoại."
         }
       ]
     },
@@ -541,7 +541,7 @@
       "bundleIdentifier": "com.dlipa.client",
       "developerName": "hieudz",
       "subtitle": "Modified iOS application",
-      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng d���ng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak.",
+      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak.",
       "iconURL": "https://raw.githubusercontent.com/hieuitcz/ipa/main/icons/DLiPA.png",
       "tintColor": "#FF6B35",
       "screenshots": [],
@@ -700,7 +700,7 @@
           "date": "2025-11-14T02:03:02+00:00",
           "size": 216970638,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/instagram-rocket-384.0.0/instagram.rocket-384.0.0.ipa",
-          "localizedDescription": "Lưu ý :\n- Bản có chữ Cracked dành cho bạn nào chưa mua Rocket, bản không có chữ Cracked dành cho những bạn đã mua Rocket. \n- Sau khi đã tải bản Cracked về và cài đặt thành công.\n- Mở ���ng dụng Instagram lên -> bấm vô biểu tượng hình người ở góc phải bên dưới -> bấm vô dấu 3 gạch ở góc phải bên trên -> Rocket Settings -> Upgrade Now! -> Restore Purchases."
+          "localizedDescription": "Lưu ý :\n- Bản có chữ Cracked dành cho bạn nào chưa mua Rocket, bản không có chữ Cracked dành cho những bạn đã mua Rocket. \n- Sau khi đã tải bản Cracked về và cài đặt thành công.\n- Mở ứng dụng Instagram lên -> bấm vô biểu tượng hình người ở góc phải bên dưới -> bấm vô dấu 3 gạch ở góc phải bên trên -> Rocket Settings -> Upgrade Now! -> Restore Purchases."
         }
       ]
     },
