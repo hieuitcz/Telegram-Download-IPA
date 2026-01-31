@@ -436,7 +436,7 @@
           "date": "2025-11-17T00:15:05+00:00",
           "size": 30835110,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/filebrowser-professional-25.12/filebrowser-professional-25.12.ipa",
-          "localizedDescription": "- FileBrowser Professional là ứng dụng quản lý và truy cập tệp mạnh mẽ dành cho iPhone và iPad, được thiết kế cho người dùng chuyên nghiệp và môi trường doanh nghiệp. \n - Đây là giải pháp hàng đầu để kết nối, duyệt, chỉnh sửa và đồng bộ hóa dữ liệu từ hơn 20 loại máy chủ mạng, thiết bị lưu trữ và dịch vụ đám mây — tất cả trong một ứng dụng duy nhất."
+          "localizedDescription": "- FileBrowser Professional là ứng dụng quản lý và truy cập tệp mạnh mẽ dành cho iPhone và iPad, được thiết kế cho người dùng chuyên nghiệp và môi trường doanh nghiệp. \n - Đây là giải pháp hàng ��ầu để kết nối, duyệt, chỉnh sửa và đồng bộ hóa dữ liệu từ hơn 20 loại máy chủ mạng, thiết bị lưu trữ và dịch vụ đám mây — tất cả trong một ứng dụng duy nhất."
         }
       ]
     },
@@ -508,7 +508,7 @@
           "date": "2025-11-16T20:36:16+00:00",
           "size": 596392258,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/minecraft-1.21.123/minecraft-1.21.123.ipa",
-          "localizedDescription": "- Minecraft là m��t trong những tựa game nổi tiếng nhất trên thế giới, và hiện nay đã có mặt trên hầu hết các nền tảng, bao gồm cả iOS. \n - Trò chơi này được phát triển bởi Mojang Studios, một công ty con của Microsoft, và được phát hành lần đầu vào năm 2011."
+          "localizedDescription": "- Minecraft là một trong những tựa game nổi tiếng nhất trên thế giới, và hiện nay đã có mặt trên hầu hết các nền tảng, bao gồm cả iOS. \n - Trò chơi này được phát triển bởi Mojang Studios, một công ty con của Microsoft, và được phát hành lần đầu vào năm 2011."
         }
       ]
     },
@@ -541,7 +541,7 @@
       "bundleIdentifier": "com.dlipa.client",
       "developerName": "hieudz",
       "subtitle": "Modified iOS application",
-      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng dụng cho phép ngư��i dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak.",
+      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak.",
       "iconURL": "https://raw.githubusercontent.com/hieuitcz/ipa/main/icons/DLiPA.png",
       "tintColor": "#FF6B35",
       "screenshots": [],
@@ -580,7 +580,7 @@
           "date": "2025-11-14T23:28:50+00:00",
           "size": 4232092,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/livecontainer-3.6.1/livecontainer-3.6.1.ipa",
-          "localizedDescription": "- LiveContainer là một trình khởi chạy ứng dụng (app launcher) mạnh mẽ cho iOS.  \n - Cho phép bạn cài đặt và chạy nhiều ứng dụng IPA ngay bên trong nó, mà không cần jailbreak thiết bị.   \n - Không phải là trình giả lập hay hypervisor.  \n - LiveContainer hoạt động như một môi trường độc lập giúp bạn tách biệt các ứng dụng, dễ dàng quản lý, và tận dụng tối đa sức mạnh của thiết bị iOS.  \n"
+          "localizedDescription": "- LiveContainer là một trình khởi chạy ứng dụng (app launcher) mạnh mẽ cho iOS.  \n - Cho phép bạn cài đặt và chạy nhiều ứng dụng IPA ngay bên trong nó, mà không cần jailbreak thiết bị.   \n - Không phải là trình giả lập hay hypervisor.  \n - LiveContainer hoạt động như một môi trường độc lập giúp bạn tách biệt các ứng dụng, dễ dàng quản lý, và tận dụng t��i đa sức mạnh của thiết bị iOS.  \n"
         }
       ]
     },
