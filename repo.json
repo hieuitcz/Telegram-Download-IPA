@@ -508,7 +508,7 @@
           "date": "2025-11-16T20:36:16+00:00",
           "size": 596392258,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/minecraft-1.21.123/minecraft-1.21.123.ipa",
-          "localizedDescription": "- Minecraft là m��t trong những tựa game nổi tiếng nhất trên thế giới, và hiện nay đã có mặt trên hầu hết các nền tảng, bao gồm cả iOS. \n - Trò chơi này được phát triển bởi Mojang Studios, một công ty con của Microsoft, và được phát hành lần đầu vào năm 2011."
+          "localizedDescription": "- Minecraft là một trong những tựa game nổi tiếng nhất trên thế giới, và hiện nay đã có mặt trên hầu hết các nền tảng, bao gồm cả iOS. \n - Trò chơi này được phát triển bởi Mojang Studios, một công ty con của Microsoft, và được phát hành lần đầu vào năm 2011."
         }
       ]
     },
@@ -541,7 +541,7 @@
       "bundleIdentifier": "com.dlipa.client",
       "developerName": "hieudz",
       "subtitle": "Modified iOS application",
-      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng dụng cho phép ngư��i dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak.",
+      "localizedDescription": "DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak.",
       "iconURL": "https://raw.githubusercontent.com/hieuitcz/ipa/main/icons/DLiPA.png",
       "tintColor": "#FF6B35",
       "screenshots": [],
@@ -556,7 +556,7 @@
           "date": "2025-11-14T23:49:30+00:00",
           "size": 480247,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/dlipa-1.0/dlipa-1.0.ipa",
-          "localizedDescription": "- DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. \n - Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak."
+          "localizedDescription": "- DLiPA là một ứng dụng iOS lấy cảm h��ng từ dự án ipatool. \n - Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak."
         }
       ]
     },
