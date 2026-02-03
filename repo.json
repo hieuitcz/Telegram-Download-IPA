@@ -556,7 +556,7 @@
           "date": "2025-11-14T23:49:30+00:00",
           "size": 480247,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/dlipa-1.0/dlipa-1.0.ipa",
-          "localizedDescription": "- DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. \n - Ứng dụng cho phép người dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak."
+          "localizedDescription": "- DLiPA là một ứng dụng iOS lấy cảm hứng từ dự án ipatool. \n - Ứng dụng cho phép ngư��i dùng tải về, cài đặt và chia sẻ các ứng dụng trên App Store bằng Apple ID của họ, hỗ trợ cả việc tải phiên bản cũ — không cần jailbreak."
         }
       ]
     },
@@ -580,7 +580,7 @@
           "date": "2025-11-14T23:28:50+00:00",
           "size": 4232092,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/livecontainer-3.6.1/livecontainer-3.6.1.ipa",
-          "localizedDescription": "- LiveContainer là một trình khởi chạy ứng dụng (app launcher) mạnh mẽ cho iOS.  \n - Cho phép bạn cài đặt và chạy nhiều ứng dụng IPA ngay bên trong nó, mà không cần jailbreak thiết bị.   \n - Không phải là trình giả lập hay hypervisor.  \n - LiveContainer hoạt động như một môi trường độc lập giúp bạn tách biệt các ứng dụng, dễ dàng quản lý, và tận dụng t��i đa sức mạnh của thiết bị iOS.  \n"
+          "localizedDescription": "- LiveContainer là một trình khởi chạy ứng dụng (app launcher) mạnh mẽ cho iOS.  \n - Cho phép bạn cài đặt và chạy nhiều ứng dụng IPA ngay bên trong nó, mà không cần jailbreak thiết bị.   \n - Không phải là trình giả lập hay hypervisor.  \n - LiveContainer hoạt động như một môi trường độc l���p giúp bạn tách biệt các ứng dụng, dễ dàng quản lý, và tận dụng tối đa sức mạnh của thiết bị iOS.  \n"
         }
       ]
     },
