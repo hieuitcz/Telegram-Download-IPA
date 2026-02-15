@@ -2,7 +2,7 @@ name: Build SideStore repo from esign.json
 
 on:
   schedule:
-    - cron: "0 * * * *" # mỗi giờ sync 1 lần
+    #- cron: "0 * * * *" # mỗi giờ sync 1 lần
   workflow_dispatch: {}
 
 permissions:
