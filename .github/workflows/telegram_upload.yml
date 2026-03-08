@@ -1,4 +1,4 @@
-name: Get Telegram File & Upload to Release
+name: 3. Get Telegram File & Upload to Release
 
 on:
   workflow_dispatch:
