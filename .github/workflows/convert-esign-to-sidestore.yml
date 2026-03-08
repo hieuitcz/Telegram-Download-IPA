@@ -1,7 +1,7 @@
 name: Build SideStore repo from esign.json
 
 on:
-  schedule:
+  #schedule:
   workflow_dispatch: {}
 
 permissions:
