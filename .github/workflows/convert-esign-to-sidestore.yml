@@ -1,4 +1,4 @@
-name: Build SideStore repo from esign.json
+name: 1. Build SideStore repo from esign.json
 
 on:
   #schedule:
