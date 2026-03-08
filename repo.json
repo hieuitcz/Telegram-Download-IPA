@@ -215,11 +215,11 @@
       },
       "versions": [
         {
-          "version": "1.119.1",
+          "version": "1.126.1",
           "minOSVersion": "14.0",
-          "date": "2025-11-30T01:32:35+00:00",
-          "size": 741437558,
-          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/toca-boca-world-v1.119.1/toca-boca-world-v1.119.1.ipa",
+          "date": "2026-03-08T20:10:53+00:00",
+          "size": 781890772,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/toca-boca-world-v1.126.1/toca-boca-world-v1.126.1.ipa",
           "localizedDescription": "Hack Features:  \n - PREMIUM"
         }
       ]
@@ -301,7 +301,7 @@
       "bundleIdentifier": "com.sagosago.Friends",
       "developerName": "hieudz",
       "subtitle": "Modified iOS application",
-      "localizedDescription": "Modified iOS application",
+      "localizedDescription": "Hack Features: \n - Premium Unlock All",
       "iconURL": "https://raw.githubusercontent.com/hieuitcz/ipa/main/icons/sago-mini-world-kids-games.webp",
       "tintColor": "#FF6B35",
       "screenshots": [],
@@ -311,12 +311,12 @@
       },
       "versions": [
         {
-          "version": "8.3.1538",
+          "version": "8.6",
           "minOSVersion": "14.0",
-          "date": "2025-11-19T23:48:10+00:00",
-          "size": 656168573,
-          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/sago-mini-world-kids-games-v8.3.1538/sago-mini-world-kids-games-v8.3.1538.ipa",
-          "localizedDescription": "- Premium Unlock All"
+          "date": "2026-03-08T20:01:48+00:00",
+          "size": 611628102,
+          "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/sago-mini-world-kids-games-v8.6/sago-mini-world-kids-games-v8.6.ipa",
+          "localizedDescription": "Hack Features: \n - Premium Unlock All"
         }
       ]
     },
@@ -436,7 +436,7 @@
           "date": "2025-11-17T00:15:05+00:00",
           "size": 30835110,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/filebrowser-professional-25.12/filebrowser-professional-25.12.ipa",
-          "localizedDescription": "- FileBrowser Professional là ứng dụng quản lý và truy cập tệp mạnh mẽ dành cho iPhone và iPad, được thiết kế cho người dùng chuyên nghiệp và môi trường doanh nghiệp. \n - Đây là giải pháp hàng ��ầu để kết nối, duyệt, chỉnh sửa và đồng bộ hóa dữ liệu từ hơn 20 loại máy chủ mạng, thiết bị lưu trữ và dịch vụ đám mây — tất cả trong một ứng dụng duy nhất."
+          "localizedDescription": "- FileBrowser Professional là ứng dụng quản lý và truy cập tệp mạnh mẽ dành cho iPhone và iPad, được thiết kế cho người dùng chuyên nghiệp và môi trường doanh nghiệp. \n - Đây là giải pháp hàng đầu để kết nối, duyệt, chỉnh sửa và đồng bộ hóa dữ liệu từ hơn 20 loại máy chủ mạng, thiết bị lưu trữ và dịch vụ đám mây — tất cả trong một ứng dụng duy nhất."
         }
       ]
     },
@@ -580,7 +580,7 @@
           "date": "2025-11-14T23:28:50+00:00",
           "size": 4232092,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/livecontainer-3.6.1/livecontainer-3.6.1.ipa",
-          "localizedDescription": "- LiveContainer là một trình khởi chạy ứng dụng (app launcher) mạnh mẽ cho iOS.  \n - Cho phép bạn cài đặt và chạy nhiều ứng dụng IPA ngay bên trong nó, mà không cần jailbreak thiết bị.   \n - Không phải là trình giả lập hay hypervisor.  \n - LiveContainer hoạt động như một môi trường độc lập giúp bạn tách biệt các ứng dụng, dễ dàng quản lý, và tận dụng t��i đa sức mạnh của thiết bị iOS.  \n"
+          "localizedDescription": "- LiveContainer là một trình khởi chạy ứng dụng (app launcher) mạnh mẽ cho iOS.  \n - Cho phép bạn cài đặt và chạy nhiều ứng dụng IPA ngay bên trong nó, mà không cần jailbreak thiết b���.   \n - Không phải là trình giả lập hay hypervisor.  \n - LiveContainer hoạt động như một môi trường độc lập giúp bạn tách biệt các ứng dụng, dễ dàng quản lý, và tận dụng tối đa sức mạnh của thiết bị iOS.  \n"
         }
       ]
     },
@@ -844,7 +844,7 @@
           "date": "2025-11-14T02:15:44+00:00",
           "size": 125175458,
           "downloadURL": "https://github.com/hieuitcz/ipa/releases/download/aloha-vpn-2.2.1/aloha.vpn-2.2.1.ipa",
-          "localizedDescription": "Aloha VPN Premium – Aloha VPN++ iPA by Lê Tí, cảm ơn LK Team đã hỗ trợ.\n- Aloha VPN++ iPA mở khóa tính năng premium của ứng dụng Aloha VPN.\n- Hướng dẫn: đăng nhập tài khoản sau đó xóa đa nhiệm và mở lại.\n- Lưu ý: chỉ hoạt động với TrollStore, jailbreak hoặc chứng chỉ có hỗ trợ VPN."
+          "localizedDescription": "Aloha VPN Premium – Aloha VPN++ iPA by Lê Tí, cảm ơn LK Team đã hỗ trợ.\n- Aloha VPN++ iPA mở khóa tính năng premium của ứng dụng Aloha VPN.\n- Hướng dẫn: đăng nhập tài khoản sau đó xóa đa nhiệm và mở lại.\n- Lưu ý: chỉ hoạt động với TrollStore, jailbreak hoặc chứng chỉ có h��� trợ VPN."
         }
       ]
     },
